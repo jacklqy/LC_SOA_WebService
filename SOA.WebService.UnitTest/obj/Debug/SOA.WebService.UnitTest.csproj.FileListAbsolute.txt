@@ -1,0 +1,17 @@
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\SOA.WebService.UnitTest.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\SOA.WebService.UnitTest.pdb
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\test\LC_SOA\SOA.WebService.UnitTest\obj\Debug\SOA.WebService.UnitTest.csproj.CoreCompileInputs.cache
+G:\test\LC_SOA\SOA.WebService.UnitTest\obj\Debug\SOA.WebService.UnitTest.csproj.CopyComplete
+G:\test\LC_SOA\SOA.WebService.UnitTest\obj\Debug\SOA.WebService.UnitTest.dll
+G:\test\LC_SOA\SOA.WebService.UnitTest\obj\Debug\SOA.WebService.UnitTest.pdb
+G:\test\LC_SOA\SOA.WebService.UnitTest\bin\Debug\SOA.WebService.UnitTest.dll.config
